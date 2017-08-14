@@ -1,2 +1,2 @@
 # My-First-Repository
-Learning is fun
+I am learning git so that i can have fun.
